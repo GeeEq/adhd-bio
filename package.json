@@ -1,0 +1,19 @@
+{
+  "name": "adhd-bio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "three": "^0.181.0"
+  }
+}
